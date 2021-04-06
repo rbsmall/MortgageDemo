@@ -15,6 +15,8 @@
       *       MONTHLY PAYMENT
       *
       *    (C) 2019 IBM
+      *
+      *  Comment for Demo
 
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION.
