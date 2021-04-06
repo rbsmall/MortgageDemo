@@ -16,7 +16,7 @@
       *
       *    (C) 2019 IBM
       *
-      *    Comment for demo
+      *    Comment for demo number 2
 
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION.
